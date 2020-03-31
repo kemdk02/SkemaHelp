@@ -1,0 +1,12 @@
+C:\Users\benne\Downloads\Kalendar\Kalendar\bin\Debug\Kalendar.exe.config
+C:\Users\benne\Downloads\Kalendar\Kalendar\bin\Debug\Kalendar.exe
+C:\Users\benne\Downloads\Kalendar\Kalendar\bin\Debug\Kalendar.pdb
+C:\Users\benne\Downloads\Kalendar\Kalendar\bin\Debug\Kalendar.xml
+C:\Users\benne\Downloads\Kalendar\Kalendar\obj\Debug\Kalendar.vbprojAssemblyReference.cache
+C:\Users\benne\Downloads\Kalendar\Kalendar\obj\Debug\Kalendar.Form1.resources
+C:\Users\benne\Downloads\Kalendar\Kalendar\obj\Debug\Kalendar.Resources.resources
+C:\Users\benne\Downloads\Kalendar\Kalendar\obj\Debug\Kalendar.vbproj.GenerateResource.cache
+C:\Users\benne\Downloads\Kalendar\Kalendar\obj\Debug\Kalendar.vbproj.CoreCompileInputs.cache
+C:\Users\benne\Downloads\Kalendar\Kalendar\obj\Debug\Kalendar.exe
+C:\Users\benne\Downloads\Kalendar\Kalendar\obj\Debug\Kalendar.xml
+C:\Users\benne\Downloads\Kalendar\Kalendar\obj\Debug\Kalendar.pdb
